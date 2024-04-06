@@ -35,7 +35,7 @@ To execute this program locally, install the following:
     - yfinance
     - scikit-learn
 
- ### Data
+ ## Data
  All of the data during the project will be dowloaded using the yfinance package. 
 
  # Next Steps   
